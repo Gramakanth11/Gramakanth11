@@ -1,6 +1,9 @@
 # Bio
 <h1 align="center">Hi 👋, I'm Ramakanth G</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Data Analyst skilled in Python, SQL, Power BI, and ETL workflows with experience in dashboard 
+development, machine learning models, and data preprocessing. Strong ability to analyze datasets, build 
+automated reporting pipelines, and derive actionable insights. Eager to contribute to dynamic tech teams 
+and grow through practical, problem-solving experience. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gramakanth11&label=Profile%20views&color=0e75b6&style=flat" alt="gramakanth11" /> </p>
 
