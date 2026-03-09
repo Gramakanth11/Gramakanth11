@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramakanth G</h1>
 <h3 align="center">Data Analyst skilled in Python, SQL, Power BI, and ETL workflows with experience in dashboard development, machine learning models, and data preprocessing. Strong ability to analyze datasets, build automated reporting pipelines, and derive actionable insights. Eager to contribute to dynamic tech teams and grow through practical, problem-solving experience.</h3>
 
-- 👨‍💻 All of my projects are available at [https://gramakanth11.github.io/Portfolio-Ramakanth-G/](https://gramakanth11.github.io/Portfolio-Ramakanth-G/)
+- 👨‍💻 Portfolio [https://gramakanth11.github.io/Portfolio-Ramakanth-G/](https://gramakanth11.github.io/Portfolio-Ramakanth-G/)
 
 - 📫 How to reach me **ramakanthgajula11@gmail.com**
 
